@@ -19,7 +19,6 @@ Key Features:
 
 AI/ML Components:
 1)Predictive Risk Modeling (Risk Engine): Uses machine learning to evaluate hyper-local historical data (weather patterns, traffic density, local strike history) specific to the Q-commerce persona to predict the likelihood of disruptions in a given week.
-
 2)Dynamic Pricing Model: Adjusts the weekly premium based on predictive weather modeling and hyper-local risk factors. For example, the model charges ₹2 less per week if the worker operates in a zone historically safe from water logging.
 3)Advanced Fraud Detection System: Utilizes ML anomaly detection to catch delivery-specific fraud, such as GPS spoofing or submitting fake weather claims, by cross-referencing claims with historical and real-time API data.
 
